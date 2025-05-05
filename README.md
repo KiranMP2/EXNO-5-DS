@@ -1,6 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-# Name: Piritharaman R
-# Reg no: 212223230148
+# Name: KIRAN MP
+# Reg no: 212224230123
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
